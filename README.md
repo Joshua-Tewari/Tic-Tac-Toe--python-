@@ -1,2 +1,6 @@
 # Tic-Tac-Toe--python-
-This is a simple tic tac toe game using python
+
+This is a simple tic tac toe python game using tkinter
+
+pip install tk
+
